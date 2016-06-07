@@ -8,5 +8,5 @@ http://elshadaghazade.info/blog/mysql/mysql-protocol-understanding-mysql-connect
 ### HOW TO USE
 just download and put both PHP files into one directory. Than run mysql.php in the console with these parameters:
 ```shell
-> php mysql.php -u[your own mysql username] -p[your own mysql password] -h[host and port]
+> php mysql.php -u[your own mysql username] -p[your own mysql password] -h[mysql server host and port]
 ```
